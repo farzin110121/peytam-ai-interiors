@@ -1,0 +1,10 @@
+{
+  "name": "peytam-ai",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "streamlit run app.py --server.port $PORT --server.address 0.0.0.0"
+  },
+  "dependencies": {
+    "streamlit": "^1.0.0"
+  }
+}
